@@ -19,8 +19,8 @@ Design: Responsive, mobile-first, reusable components
 
 
 🔗 Live Demo & Repo
-Demo: Open index.html in browser
-Repo: GitHub
+Live: https://mrohitgupta9.github.io/food-delivery-app/
+Repo: https://mrohitgupta9.github.io/food-delivery-app/
 
 📫 Connect with Me
 GitHub: https://github.com/mrohitgupta9
